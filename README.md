@@ -1,6 +1,14 @@
 ## Just a project for practice.
 
+This project has used [jsonplaceholder](https://jsonplaceholder.typicode.com/) for the https requests which allows used to perform CRUD concept in fake way
+Create
+Retrieve
+Update
+Delete
+
 Note: This is not a custom project made by me but followed to learn react concepts
+
+[Live demo](https://jaygala24.github.io/contactmanager/#/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
