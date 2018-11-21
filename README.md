@@ -1,3 +1,7 @@
+## Just a project for practice.
+
+Note: This is not a custom project made by me but followed to learn react concepts
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
